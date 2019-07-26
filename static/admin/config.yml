@@ -4,6 +4,7 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+publish_mode: editorial_workflow
 
 collections:
   - name: "blog"
@@ -22,7 +23,7 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
 
   - name: "workday-help"
-    lable: "Workday Help"
+    label: "Workday Help"
     folder: "src/pages/workday-help"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
