@@ -12,6 +12,8 @@ tags:
   - What is Workday
   - ''
 ---
+![](/img/hero-image-5.png)
+
 Workday makes Nando’s an even better place to work, and it helps do that in different ways for different people:
 
 * For people in our communities who want to work with Nando’s to create lasting happiness and change lives together, it makes it easier to find, learn more about and apply for roles at Nando’s.
