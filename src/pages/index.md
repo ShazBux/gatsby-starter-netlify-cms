@@ -12,11 +12,7 @@ mainpitch:
     to work. Nandocas will use it to book holiday, see their pay, see job
     opportunties and more; whilst Managers will use it to recruit, hire,
     on-board, pay and look after the basics for their Nandocas.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: 'Here are some great reasons to use Workday:'
 intro:
   blurbs:
     - image: /img/coffee.png
