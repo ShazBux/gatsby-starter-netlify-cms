@@ -35,7 +35,7 @@ intro:
       text: >-
         Gives Nandocas more control over their data and their Nando’s
         experience.
-  heading: Why Workday?
+  heading: Why use Workday?
   description: >-
     Workday will help make life easier for Candidates, Nandocas and Managers;
     and will help us to make Nando’s an even better place to work.
