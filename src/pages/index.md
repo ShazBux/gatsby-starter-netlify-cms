@@ -5,12 +5,16 @@ image: /img/adjusted-signon-image.png
 heading: Making life easier with Workday.
 subheading: 'Making life easier for Candidates, Nandocas and Managers.'
 mainpitch:
-  title: Why Kaldi
+  title: Why Workday?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Workday is a system that will help to make life easier for everyone and will
+    help us to make Nando’s an even better place to work. Workday makes it
+    easier for: candidates to find, learn more about and apply for roles at
+    Nando’s; all Nandocas (everyone) to book your holiday, view your pay, find
+    other Nandocas in Nando’s, change your bank details, elect into benefit such
+    as cycle to work. apply for jobs internally and much more; and for Managers
+    it makes it easier to recruit, hire, on-board, pay and take care of the
+    basics for your Nandocas.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
