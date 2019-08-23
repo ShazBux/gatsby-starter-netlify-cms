@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Making life easier with Workday
 image: /img/adjusted-signon-image.png
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Making life easier with Workday.
+subheading: 'Making life easier for Candidates, Nandocas and Managers.'
 mainpitch:
   title: Why Kaldi
   description: >
