@@ -17,16 +17,15 @@ description: >-
   will help us to make Nando’s an even better place to work.
 intro:
   blurbs:
-    - image: /img/family-day-heart-compass.png
+    - image: /img/l-d-icons-45.png
       text: >-
-        Enables an even better candidate and Nandoca exPERience, helping us be
+        Enables an even better Candidate and Nandoca exPERience, helping us be
         the number one employer. 
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: /img/time-saving.png
+      text: >-
+        It saves managers time so they can spend more time with their Nandocas
+        and Customers – doing the things that give all of us energy and make
+        Nando’s, Nando’s.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
