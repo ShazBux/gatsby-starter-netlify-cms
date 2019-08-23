@@ -7,10 +7,13 @@ description: >-
   processes and to give you access to real time information to help you in your
   job.
 featuredpost: true
-featuredimage: /img/screenshot-2019-07-26-at-23.35.58.png
+featuredimage: /img/hero-image-5.png
 tags:
-  - intro
+  - What is Workday
+  - ''
 ---
+![](/img/hero-image-5.png)
+
 Workday makes Nando’s an even better place to work, and it helps do that in different ways for different people:
 
 * For people in our communities who want to work with Nando’s to create lasting happiness and change lives together, it makes it easier to find, learn more about and apply for roles at Nando’s.
