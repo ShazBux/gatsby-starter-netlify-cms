@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Making life easier with Workday
+title: Workday
 image: /img/adjusted-signon-image.png
 heading: Why Workday?
 subheading: 'Making life easier for Candidates, Nandocas and Managers.'
