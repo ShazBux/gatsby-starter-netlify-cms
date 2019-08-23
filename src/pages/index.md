@@ -1,16 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/screenshot-2019-07-26-at-23.35.58.png
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Making life easier with Workday
+image: /img/adjusted-signon-image.png
+heading: Why Workday?
+subheading: 'Making life easier for Candidates, Nandocas and Managers.'
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: What is Workday?
+  description: >-
+    Workday is an app that will help to make life easier for Candidates,
+    Nandocas and Managers, and will help us to make Nando’s an even better place
+    to work. Nandocas will use it to book holiday, see their pay, see job
+    opportunties and more; whilst Managers will use it to recruit, hire,
+    on-board, pay and look after the basics for their Nandocas.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
