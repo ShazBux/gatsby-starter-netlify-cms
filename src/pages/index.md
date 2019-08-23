@@ -35,8 +35,6 @@ intro:
       text: >-
         Gives Nandocas more control over their data and their Nando’s
         experience.
-    - image: /img/blog-index.jpg
-      text: new blurb
   heading: Why Workday?
   description: >-
     Workday will help make life easier for Candidates, Nandocas and Managers;
