@@ -12,16 +12,15 @@ mainpitch:
     to work. Nandocas will use it to book holiday, see their pay, see job
     opportunties and more; whilst Managers will use it to recruit, hire,
     on-board, pay and look after the basics for their Nandocas.
-description: 'Here are some great reasons to use Workday:'
+description: >-
+  Workday will help make life easier for Candidates, Nandocas and Managers; and
+  will help us to make Nando’s an even better place to work.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/family-day-heart-compass.png
+      text: >-
+        Enables an even better candidate and Nandoca exPERience, helping us be
+        the number one employer. 
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -44,12 +43,10 @@ intro:
         sale. The full price you pay goes to the artist.
     - image: /img/blog-index.jpg
       text: new blurb
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Why Workday?
+  description: >-
+    Workday will help make life easier for Candidates, Nandocas and Managers;
+    and will help us to make Nando’s an even better place to work.
 main:
   heading: Great coffee with no compromises
   description: >
